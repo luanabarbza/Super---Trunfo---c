@@ -1,4 +1,4 @@
-# Super---Trunfo---c
+# Super-Trunfo-c
 Desafios xadrez 
 # Projeto Super Trunfo
 
